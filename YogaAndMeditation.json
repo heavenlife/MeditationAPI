@@ -2,15 +2,15 @@
   "categories": [
     {
       "name": "Mantra",
-      "image": "assets/images/mantra.png"
+      "image": "https://heavenlife.github.io/MeditationAPI/Home/mantra.png"
     },
     {
       "name": "Happiness",
-      "image": "assets/images/happiness.png"
+      "image": "https://heavenlife.github.io/MeditationAPI/Home/happiness.png"
     },
     {
       "name": "Relaxation",
-      "image": "assets/images/relaxation123.png"
+      "image": "https://heavenlife.github.io/MeditationAPI/Home/relaxation.png"
     },
     {
       "name": "Focus",

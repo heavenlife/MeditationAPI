@@ -87,9 +87,9 @@
     {
       "title": "Krishna Lila Meditation",
       "description": "Krishna...",
-      "duration": '11:10',
-      "imageUrl": 'assets/mantras/mantra4.jpg',
-      "musicUrl": 'assets/audio/mantra/mantra_13.mp3'
+      "duration": "11:10",
+      "imageUrl": "assets/mantras/mantra4.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_13.mp3"
     }
   ]
 }

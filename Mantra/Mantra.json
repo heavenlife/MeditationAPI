@@ -5,14 +5,14 @@
       "description": "Yam Yam Yaksharupam",
       "duration": "05:27",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra1.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_1.mp3"
+      "musicUrl": "assets/audio/mantra/mantra_1.mp3"
     },
     {
       "title": "OM Meditation",
       "description": "om.. om..",
       "duration": "16:10",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra6.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_2.mp3"
+      "musicUrl": "assets/audio/mantra/mantra_2.mp3"
     },
     {
       "title": "Namaste Music Flute Meditation",

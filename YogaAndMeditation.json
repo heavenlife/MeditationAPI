@@ -10,11 +10,11 @@
     },
     {
       "name": "Relaxation",
-      "image": "assets/images/relaxation.png"
+      "image": "assets/images/relaxation123.png"
     },
     {
       "name": "Focus",
-      "image": "assets/images/focus.png"
+      "image": "https://heavenlife.github.io/MeditationAPI/Home/focus.png"
     }
   ]
 }

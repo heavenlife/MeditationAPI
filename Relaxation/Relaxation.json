@@ -1,1 +1,74 @@
-
+{
+  "relaxation": [
+    {
+      "title": "Positive Energy and Productivity",
+      "description": "Energy Music..",
+      "duration": "09:57",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy1.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_1.mp3"
+    },
+    {
+      "title": "432Hz Om Mantra",
+      "description": "Positive Energy Vibrations",
+      "duration": "10:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy2.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_2.mp3"
+    },
+    {
+      "title": "Sound Healing For Deep",
+      "description": "Relaxation & Stress Relief",
+      "duration": "07:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy3.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_3.mp3"
+    },
+    {
+      "title": "Mind Relaxing",
+      "description": "Healing Meditation Music",
+      "duration": "10:10",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy4.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_4.mp3"
+    },
+    {
+      "title": "Thoda Hai Thode",
+      "description": "Thoda Hai Thode Ki Zaroorat Hai",
+      "duration": "03:55",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_5.mp3"
+    },
+    {
+      "title": "Earth Resonance Frequency",
+      "description": "Deeper Relaxation",
+      "duration": "05:07  ",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy1.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_6.mp3"
+    },
+    {
+      "title": "Relaxing Music",
+      "description": "5 Minutes Meditation",
+      "duration": "05:03",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy2.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_7.mp3"
+    },
+    {
+      "title": "This Can Change Everything",
+      "description": "Every Morning Affirmation",
+      "duration": "08:36",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy3.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_8.mp3"
+    },
+    {
+      "title": "Daily Morning Affirmations",
+      "description": "Morning Motivation",
+      "duration": "05:25",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy4.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_9.mp3"
+    },
+    {
+      "title": "Student Meditation",
+      "description": "Guidance For Youth's",
+      "duration": "09:28",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/mantra/mantra_10.mp3"
+    }
+  ]
+}

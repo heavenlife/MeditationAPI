@@ -5,70 +5,70 @@
       "description": "Kya Yahi Pyar Hai",
       "duration": "04:32",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy1.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_1.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_1.mp3"
     },
     {
       "title": "Suno Na",
       "description": "Suno Na",
       "duration": "16:10",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy2.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_2.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_2.mp3"
     },
     {
       "title": "Bahon Ke Darmiyan",
       "description": "Bahon Ke Darmiyan",
       "duration": "05:13",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy3.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_3.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_3.mp3"
     },
     {
       "title": "Tu Tu Hai Wohi",
       "description": "Tu Tu Hai Wohi",
       "duration": "05:15",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy4.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_4.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_4.mp3"
     },
     {
       "title": "Thoda Hai Thode",
       "description": "Thoda Hai Thode Ki Zaroorat Hai",
       "duration": "03:55",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_5.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_5.mp3"
     },
     {
       "title": "Pal Pal Dil Ke Paas",
       "description": "Pal Pal Dil Ke Paas",
       "duration": "04:24",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy1.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_6.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_6.mp3"
     },
     {
       "title": "Pyar Manga Hai",
       "description": "Pyar Manga Hai Tumhi Se",
       "duration": "04:08",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy2.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_7.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_7.mp3"
     },
     {
       "title": "Chhukar Mere Man",
       "description": "Chhukar Mere Man Ko",
       "duration": "04:12",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy3.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_8.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_8.mp3"
     },
     {
       "title": "Dil Kya Kare",
       "description": "Dil Kya Kare",
       "duration": "03:55",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy4.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_9.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_9.mp3"
     },
     {
       "title": "Maine Tujhe Manga",
       "description": "Maine Tujhe Manga",
       "duration": "04:50",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_10.mp3"
+      "musicUrl": "assets/audio/happiness/happyness_10.mp3"
     }
   ]
 }

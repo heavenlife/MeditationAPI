@@ -1,1 +1,137 @@
-
+{
+  "focus": [
+    {
+      "title": "Relax Mind Body, Inner peace",
+      "description": "Healing Music",
+      "duration": "08:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy1.jpg",
+      "musicUrl": "assets/audio/focus/focus_1.mp3"
+    },
+    {
+      "title": "Guided Meditation for Focus",
+      "description": "Guided Meditation",
+      "duration": "08:10",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy2.jpg",
+      "musicUrl": "assets/audio/focus/focus_2.mp3"
+    },
+    {
+      "title": "Effortless Focus Meditation",
+      "description": "Guided Meditation",
+      "duration": "13:35",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy3.jpg",
+      "musicUrl": "assets/audio/focus/focus_3.mp3"
+    },
+    {
+      "title": "Binaural Meditation",
+      "description": "Powerful Binaural Beats Tibet Bowls",
+      "duration": "10:09",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy4.jpg",
+      "musicUrl": "assets/audio/focus/focus_4.mp3"
+    },
+    {
+      "title": "40Hz Binaural Beats",
+      "description": "5 Minutes for Intense Focus",
+      "duration": "05:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_5.mp3"
+    },
+    {
+      "title": "Working Time",
+      "description": "Lazarus Moment - Grassy Plains",
+      "duration": "05:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy1.jpg",
+      "musicUrl": "assets/audio/focus/focus_6.mp3"
+    },
+    {
+      "title": "La Luna",
+      "description": "VonnBoyd - La Luna",
+      "duration": "04:01",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy2.jpg",
+      "musicUrl": "assets/audio/focus/focus_7.mp3"
+    },
+    {
+      "title": "Until Dawn",
+      "description": "Infinitum - Until Dawn",
+      "duration": "03:19",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy3.jpg",
+      "musicUrl": "assets/audio/focus/focus_8.mp3"
+    },
+    {
+      "title": "Panalour",
+      "description": "Athene - Panalour",
+      "duration": "03:05",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy4.jpg",
+      "musicUrl": "assets/audio/focus/focus_9.mp3"
+    },
+    {
+      "title": "If Onsrfderdfly",
+      "description": "4lienetic - If Onsrfderdfly",
+      "duration": "02:45",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_10.mp3"
+    },
+    {
+      "title": "Atlas",
+      "description": "Blut Own - Atlas",
+      "duration": "03:42",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_11.mp3"
+    },
+    {
+      "title": "Brot",
+      "description": "Lexis  - Brot",
+      "duration": "03:58",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_12.mp3"
+    },
+     {
+      "title": "Flora",
+      "description": "Ecepta - Flora",
+      "duration": "03:50",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy4.jpg",
+      "musicUrl": "assets/audio/focus/focus_13.mp3"
+    },
+    {
+      "title": "Endless",
+      "description": "Maltex - Endless",
+      "duration": "03:23",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_14.mp3"
+    },
+    {
+      "title": "In Space",
+      "description": "Aurora Night - In Space",
+      "duration": "03:08",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_15.mp3"
+    },
+    {
+      "title": "Reverie",
+      "description": "Nomyn - Reverie",
+      "duration": "02:05",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_16.mp3"
+    },
+     {
+      "title": "Rain",
+      "description": "Quallm - Rain",
+      "duration": "03:19",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_17.mp3"
+    },
+    {
+      "title": "Other Side",
+      "description": "GENY.G - Other Side",
+      "duration": "02:01",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_18.mp3"
+    },
+    {
+      "title": "Fireflies",
+      "description": "B. o. O. m. - Fireflies",
+      "duration": "02:22",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Happiness/HappinessImages/happy5.jpg",
+      "musicUrl": "assets/audio/focus/focus_19.mp3"
+    }
+  ]
+}

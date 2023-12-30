@@ -19,77 +19,77 @@
       "description": "Flute Music",
       "duration": "20:00",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra4.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_3.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_3.mp3"
     },
     {
       "title": "Shiv Tandav Stotram",
       "description": "Shiv Tandav",
       "duration": "08:04",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra1.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_4.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_4.mp3"
     },
     {
       "title": "Guru Paduka Stotram",
       "description": "Shiva Shivom",
       "duration": "10:21",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra3.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_5.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_5.mp3"
     },
     {
       "title": "Chakra Cleansing",
       "description": "life 7 Chakra Cleansing",
       "duration": "06:21",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra6.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_6.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_6.mp3"
     },
     {
       "title": "Nirvana Shatakam Meditation",
       "description": "Nirvana Shatakam",
       "duration": "07:10",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra1.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_7.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_7.mp3"
     },
     {
       "title": "Naga Stuti",
       "description": "Shiva bhrnam",
       "duration": "04:49",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra1.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_8.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_8.mp3"
     },
     {
       "title": "Hare Krishna Hare Ram",
       "description": "Maha Mantra",
       "duration": "11:11",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra4.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_9.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_9.mp3"
     },
     {
       "title": "Shri Krishna Govinda Hare Murari",
       "description": "Shri Krishna Govinda Hare Murari",
       "duration": "03:33",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra4.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_10.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_10.mp3"
     },
     {
       "title": "Hanuman Chalisa",
       "description": "Shri Guru Charan..",
       "duration": "09:09",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra3.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_11.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_11.mp3"
     },
     {
       "title": "Ganesh Maha Mantra Meditation",
       "description": "Om gan ganpataye namah..",
       "duration": "11:10",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra2.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_12.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_12.mp3"
     },
     {
       "title": "Krishna Lila Meditation",
       "description": "Krishna...",
-      "duration": "11:10",
+      "duration": "10:03",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Mantra/MantraImages/mantra4.jpg",
-      "musicUrl": "assets/audio/mantra/mantra_13.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/MantraAudio/mantra_13.mp3"
     }
   ]
 }

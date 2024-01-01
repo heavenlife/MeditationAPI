@@ -4,14 +4,14 @@
       "title": "Relax Mind Body, Inner peace",
       "description": "Healing Music",
       "duration": "08:00",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax1.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/focus.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_1.mp3"
     },
     {
       "title": "Guided Meditation for Focus",
       "description": "Guided Meditation",
       "duration": "08:10",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax2.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax12.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_2.mp3"
     },
     {
@@ -25,28 +25,28 @@
       "title": "Binaural Meditation",
       "description": "Powerful Binaural Beats Tibet Bowls",
       "duration": "10:09",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax4.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax15.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_4.mp3"
     },
     {
       "title": "40Hz Binaural Beats",
       "description": "5 Minutes for Intense Focus",
       "duration": "05:00",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax5.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax14.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_5.mp3"
     },
     {
       "title": "Working Time",
       "description": "Lazarus Moment - Grassy Plains",
       "duration": "05:12",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax1.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax13.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_6.mp3"
     },
     {
       "title": "La Luna",
       "description": "VonnBoyd - La Luna",
       "duration": "04:01",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax2.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/focus.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_7.mp3"
     },
     {
@@ -60,7 +60,7 @@
       "title": "Panalour",
       "description": "Athene - Panalour",
       "duration": "03:04",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax4.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax11.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_9.mp3"
     },
     {
@@ -116,7 +116,7 @@
       "title": "Rain",
       "description": "Quallm - Rain",
       "duration": "03:19",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax2.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax6.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_17.mp3"
     },
     {
@@ -130,7 +130,7 @@
       "title": "Fireflies",
       "description": "B. o. O. m. - Fireflies",
       "duration": "02:22",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax4.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax10.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Focus/FocusAudio/focus_19.mp3"
     }
   ]

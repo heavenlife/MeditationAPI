@@ -1,0 +1,46 @@
+{
+  "embrace": [
+    {
+      "title": "5-Minute Embrace Change",
+      "description": "Embrace change meditation",
+      "duration": "05:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax1.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Embrace/EmbraceAudio/embracing_change_1.mp3"
+    },
+    {
+      "title": "Healing Ambient Meditation",
+      "description": "The universal constant",
+      "duration": "10:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax10.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Embrace/EmbraceAudio/embracing_change_2.mp3"
+    },
+    {
+      "title": "Feeling Meditation",
+      "description": "Love R&B guitar",
+      "duration": "03:43",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax6.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Embrace/EmbraceAudio/embracing_change_3.mp3"
+    },
+    {
+      "title": "FLUTE MUSIC 5 MINUTE MEDITATION",
+      "description": "YOGA, ZEN, MINDFULNESS",
+      "duration": "05:54",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax7.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Embrace/EmbraceAudio/embracing_change_4.mp3"
+    },
+    {
+      "title": "Guided Flute Meditation",
+      "description": "Patriji guided meditation",
+      "duration": "05:16",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax8.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Embrace/EmbraceAudio/embracing_change_5.mp3"
+    },
+    {
+      "title": "Positive Loves Meditation",
+      "description": "Inspiring Music - calm",
+      "duration": "08:30",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax9.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Embrace/EmbraceAudio/embracing_change_6.mp3"
+    },
+  ]
+}

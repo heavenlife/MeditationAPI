@@ -1,1 +1,54 @@
 
+{
+  "pain": [
+    {
+      "title": "Pain Relief Meditation",
+      "description": "PainRelief binaural beats",
+      "duration": "12:23",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax1.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_1.mp3"
+    },
+    {
+      "title": "Meditation for self healing ",
+      "description": "Gratitude for the body",
+      "duration": "05:45",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax10.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_2.mp3"
+    },
+    {
+      "title": "This Will Make You Cry",
+      "description": "Saddest Piano",
+      "duration": "04:56",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax6.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_3.mp3"
+    },
+    {
+      "title": "Tum Hi Aana",
+      "description": "Instrumental Music",
+      "duration": "05:00",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax8.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_4.mp3"
+    },
+    {
+      "title": "Sad Type Beat",
+      "description": "Love Pain Emotional Piano",
+      "duration": "03:36",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax7.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_5.mp3"
+    },
+    {
+      "title": "Your Pain",
+      "description": "Guitar Type Beat Your Pain",
+      "duration": "03:24",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax9.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_6.mp3"
+    },
+    {
+      "title": "Losing Hope",
+      "description": "Sad & Emotional Piano Song Instrumental",
+      "duration": "03:18",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax9.jpg",
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_7.mp3"
+    }
+  ]
+}

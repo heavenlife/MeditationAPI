@@ -5,42 +5,42 @@
       "description": "10 minute meditation",
       "duration": "10:17",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax1.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_1.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Nature/NatureAudio/natureInspired_1.mp3"
     },
     {
       "title": "Shiva dhyan flute",
       "description": "Stress free meditation",
       "duration": "06:15",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax10.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_2.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Nature/NatureAudio/natureInspired_2.mp3"
     },
     {
       "title": "Himalayan Flute Music",
       "description": "Morning Flute Music",
-      "duration": "19:18",
+      "duration": "19:19",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax6.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_3.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Nature/NatureAudio/natureInspired_3.mp3"
     },
     {
       "title": "Kalikasan",
       "description": "Calm and Inspiring Background",
       "duration": "04:41",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax8.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_4.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Nature/NatureAudio/natureInspired_4.mp3"
     },
     {
       "title": "Nature & Travel Meditation",
       "description": "Adventurous Background Music For Nature",
       "duration": "02:42",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax7.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_5.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Nature/NatureAudio/natureInspired_5.mp3"
     },
     {
       "title": "The Nature",
       "description": "Cinematic Background Music",
       "duration": "03:03",
       "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax9.jpg",
-      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Pain/PainAudio/pain_6.mp3"
+      "musicUrl": "https://heavenlife.github.io/MeditationAPI/Nature/NatureAudio/natureInspired_6.mp3"
     }
   ]
 }

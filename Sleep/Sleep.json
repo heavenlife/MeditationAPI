@@ -4,14 +4,14 @@
       "title": "Deep Sleep Meditation",
       "description": "5 minutes sleep",
       "duration": "05:10",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax1.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Sleep/SleepImages/sleep1.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Sleep/SleepAudio/sleep_1.mp3"
     },
     {
       "title": "Deep Sleep and Calmness",
       "description": "Night meditation",
       "duration": "18:47",
-      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Relaxation/RelaxationImages/relax10.jpg",
+      "imageUrl": "https://heavenlife.github.io/MeditationAPI/Sleep/SleepImages/sleep2.jpg",
       "musicUrl": "https://heavenlife.github.io/MeditationAPI/Sleep/SleepAudio/sleep_2.mp3"
     }
   ]
